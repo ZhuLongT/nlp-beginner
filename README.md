@@ -1,17 +1,10 @@
 # NLP-Beginner：自然语言处理入门练习
 
-新加入本实验室的同学，请按要求完成下面练习，并提交报告。
-
-*请完成每次练习后把report上传到QQ群中的共享文件夹中的“Reports of nlp-beginner”目录，文件命名格式为“task 1+姓名”。*
-
 参考：
 
 1. [深度学习上手指南](https://github.com/nndl/nndl.github.io/blob/master/md/DeepGuide.md)
 2. 《[神经网络与深度学习](https://nndl.github.io/)》 
 3. 不懂问google
-
-
-
 
 
 ### 任务一：基于机器学习的文本分类
